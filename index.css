@@ -14,3 +14,165 @@ main{
     min-height: 100vh;
     background-color: #262336;
 }
+
+.h-10{
+    height: 25%;
+}
+
+.size-button{
+    width: 5.5rem;
+    height: 2.9rem;
+}
+
+.pb-3px{
+    padding-bottom: 3px;
+}
+
+.radius-8px{
+    border-radius: 8px;
+}
+
+.bg-button{
+    background-color: #2FD56F;
+}
+
+.color-text{
+    color: #FFFFFF;
+}
+
+.color-text-button{
+   color: #000000;
+}
+
+.bg--input-transparent{
+    background: transparent;
+}
+
+.fontsize--3rem{
+    font-size: 2.6rem;
+}
+
+.font-size--17px{
+    font-size: 17px;
+}
+
+.font-size-2rem{
+    font-size: 1.45rem;
+}
+
+.font--width-button{
+    font-weight: 700;
+}
+
+.font-size-button{
+    font-size: 1.5rem;
+}
+
+.h1-font-weight{
+    font-weight: 700;
+}
+
+.border-top-left-right--none{
+    border: 1px solid white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.border-color{
+    border-color: #FFFFFF;
+}
+
+.outline-none{
+    outline: none;
+}
+
+.w-17rem{
+    width: 17.8rem;
+}
+
+.mt{
+    margin-top: 1.8rem;
+    margin-right: 0.7rem;
+}
+
+.pb-mb-input{
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.13rem;
+}
+
+
+input:focus{
+    border-color: #2FD56F;
+    transition: 1s;
+}
+
+.margin--top-2rem{
+    margin-top: 2rem;
+}
+
+.bg--div-text{
+    background-color: #342F4E;
+}
+
+
+.border-radius-8px{
+    border-radius: 8px;
+}
+
+.margin-bottom-1rem{
+    margin-bottom: 1rem;
+}
+
+.padding-8px{
+    padding: 10px;
+}
+
+.bg-green{
+    background-color: #2FD66F;
+}
+
+.bg-red{
+    background-color: #DC143C;
+}
+
+.border-none{
+    border: none;
+}
+
+.w-32{
+    width: 30rem;
+    height: 4.1rem;
+}
+
+.w-DONE-button{
+    width: 4.5rem;
+}
+
+.w-DELETE-button{
+    width: 5.5rem;
+}
+
+.h-DONE-DELETE-button{
+    height: 2rem;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.margin-bottom-5px{
+    margin-bottom: 0.3rem;
+}
+
+.margin-top-right{
+    margin-top: 0.9rem;
+    margin-right: 0.3rem;
+}
+
+.margin-right-1rem{
+    margin-right: 1rem;
+}
+
+
+
